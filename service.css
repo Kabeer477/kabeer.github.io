@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+    height: 90px;
+    background-color: black;
+}
+
+
+
+.bd table td{
+    color:rgb(66, 14, 134);
+    background-color: aqua;
+    overflow: hidden;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: 60px;
+    
+}
+ th{
+
+    background-color: blue;
+    margin-left: 70px;
+    
+    font-size: 20px;
+    border-radius: 20px;
+}
+.jj table{
+
+    border-radius:20px;
+    justify-content: center;
+    margin-left: 385px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
